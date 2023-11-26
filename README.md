@@ -10,3 +10,6 @@
 
 Необходимо перейти по ссылке и написать /start и затем ввести свое ФИО. Имеется меню команд с описанием их работы.
 
+Пример работы бота:
+![](https://github.com/rubanovs/Algorithms_and_data_structures/blob/dev/pict/photo_2023-11-26_19-48-10.jpg)
+![](https://github.com/rubanovs/Algorithms_and_data_structures/blob/dev/pict/photo_2023-11-26_19-48-04.jpg)
